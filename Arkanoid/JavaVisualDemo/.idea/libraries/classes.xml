@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/classes/org-netbeans-swing-laf-dark.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/classes/seaglasslookandfeel-0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
